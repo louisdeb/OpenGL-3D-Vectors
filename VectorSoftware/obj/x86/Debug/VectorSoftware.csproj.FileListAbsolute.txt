@@ -1,0 +1,475 @@
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Louis\Documents\Code\Vector Software - backup - thread inside inputpanel\VectorSoftware\VectorSoftware\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Louis\Documents\Code\Add points working\VectorSoftware\VectorSoftware\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\VectorSoftware - Copy\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Desktop\17.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Code\Vector Software\25.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Code\Vector Software\27.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\28.01.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Code\Vector Software\28.01.2014 - Copy\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\28.01.2014 - Copy\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Code\Vector Software\04.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Code\Vector Software\07.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Code\Vector Software\11.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Code\Vector Software\12.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\14.02.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\19.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\24.02.2014 - updating libraries\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\02.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Desktop\02.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\04.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\07.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Desktop\10.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Desktop\10.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\11.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+C:\Users\Louis\Documents\Code\Vector Software\20.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\23.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\25.03.2014 backup\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\26.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Desktop\27.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+C:\Users\Louis\Desktop\28.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+H:\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\bin\Debug\Tao.FreeGlut.dll
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+\\AYSCOUGH\debeaul$\Desktop\30.03.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.exe
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\bin\Debug\VectorSoftware.pdb
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\bin\Debug\OpenGL.dll
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ColorChangePanel.resources
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputAnglePanel.resources
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLineFromPointsPanel.resources
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputLinePanel.resources
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPanel.resources
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.InputPointPanel.resources
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.ObjectInspectorPanel.resources
+C:\Users\Louis\Desktop\02.04.2014\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.csproj.GenerateResource.Cache
+C:\Users\Louis\Desktop\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.exe
+C:\Users\Louis\Desktop\Vector Software\VectorSoftware\VectorSoftware\obj\x86\Debug\VectorSoftware.pdb
